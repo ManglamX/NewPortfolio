@@ -188,8 +188,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Connect with me
 - 📧 Email: [ecs.crce.10127@gmail.com](mailto:ecs.crce.10127@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
+- 💼 LinkedIn: [www.linkedin.com/in/manglam-jaiswal-0b2822290](www.linkedin.com/in/manglam-jaiswal-0b2822290)
+- 🐙 GitHub: [https://github.com/ManglamX](https://github.com/ManglamX)
 - 🌐 Portfolio: [https://d3a47i1j1t2si8.cloudfront.net](https://d3a47i1j1t2si8.cloudfront.net)
 - ☁️ CloudFront CDN: [https://d3a47i1j1t2si8.cloudfront.net](https://d3a47i1j1t2si8.cloudfront.net)
 
